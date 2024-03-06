@@ -15,3 +15,8 @@ Simple script para agrupar distintos clips de video, tanto si vienen con audio i
  ```bash
 python merge.py
 ```
+
+## Interpretacion del resultado
+Por simplicidad, los clips de prueba son iguales entre pares (gato en positivo y jazz de fondo) y entre impares (gato en negativo y no-jazz de fondo).
+Aun así, se pueden identificar por el numero del clip.
+Recomendable no reproducir con el volumen al 100% :) :( :/ :'(

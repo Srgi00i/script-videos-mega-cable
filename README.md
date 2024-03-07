@@ -20,3 +20,6 @@ python merge.py
 Por simplicidad, los clips de prueba son iguales entre pares (gato en positivo y jazz de fondo) y entre impares (gato en negativo y no-jazz de fondo).
 Aun así, se pueden identificar por el numero del clip.
 Recomendable no reproducir con el volumen al 100% :)
+
+![Example image](diagrama-script.png)
+
